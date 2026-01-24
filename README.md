@@ -12,7 +12,7 @@
 <div align="center">
 <table>
 <tr>
-<td><a href="https://github.com/DanielNazarioPro" target="_blank"><img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/github4.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/DanielNazarioPro" target="_blank"><img src="https://github.com/banner/github4.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="mailto:lmaiarocha23@gmail.com" target="_blank"><img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
