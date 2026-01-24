@@ -16,15 +16,10 @@
 </td>
 <td><a href="mailto:lmaiarocha23@gmail.com" target="_blank"><img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531993803557" target="_blank"><img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5592982472041" target="_blank"><img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.instagram.com/lucasmaiia_/" target="_blank"><img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/danielnazariopro/" target="_blank"><img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/lucas-maia-751971265/" target="_blank"><img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://discordapp.com/users/m4iaa" target="_blank"><img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-</tr> 
 </table>
 </div>
 
