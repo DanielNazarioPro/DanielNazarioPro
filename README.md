@@ -24,3 +24,11 @@
 </div>
 
 ----
+
+<!-- Seção inicial -->
+
+<div align="justify">
+<i><b>Olá</b>, sou o <code>Daniel Nazário</code>, tenho 28 anos, moro em Manaus e iniciei minha jornada como desenvolvedor aos 24 anos. Atualmente estou <code>cursando</code> Sistema de Informação na <a href="https://www.uea.edu.br/" target="_blank">UEA/EST</a>.</i> :man_teacher:<br />
+</div>
+
+----
