@@ -35,9 +35,7 @@
 
 <!-- Seção sobre mim -->
 <h3> Sobre mim</h3>
-<div align="justify"> Olá! Meu nome é Daniel Nazário Oliveira de Souza e sou estudante de Sistemas de Informação na Universidade do Estado do Amazonas, Escola Superior de Tecnologia.
-Desde que iniciei meus estudos sobre tecnologia, sempre tive curiosidade em aprender como desenvolver sistemas. Em 2013, tinha um jogo do qual eu era viciado, o famoso DDTANK, jogava em altas horas e tive curiosidade em aprender a programar. Em 2018, iniciei a minha trajetória como técnico em Edificações. Por iniciar a minha carreira como técnico, fiz muitos projetos arquitetônicos, então percebi que a minha paixão por desenvolver sistemas estava voltando novamente. Fiz uma pergunta genuína outra vez: como os projetos arquitetônicos que estavam na tela de um computador calculavam os resultados projetados e os encaminhavam para uma folha de papel?
-Foi então que comecei a migrar para a área de tecnologia. Em 2022, iniciei a graduação em Sistemas de Informação na UEA e percebi que desenvolver sistemas não era tão simples, existia sempre uma complexidade tecnológica: saber sobre lógica, sintaxe, Orientação a Objetos, Banco de Dados, Contêineres, uma série de tecnologias que envolvem entender o porquê de a máquina funcionar desse jeito.
+<div align="justify"> Olá meu nome é Daniel Nazário, sou estudante de Sistema de Informação no 7° Período. Sempre gostei de descubrir como funcionava os sites e sistemas de arquitetura de software, estou atualmente estudando para se preparar a uma vaga de estágio, se estiver interessado para me contratar me mande uma mensagem no whatsapp ou e-mail.
 </div>
 
 ----
