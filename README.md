@@ -1,41 +1,70 @@
------
-
-<div>
-<img align="center" alt="Header" src="banner/github-header-.png"/>
-</div>
-
------
-
------
-
-<h2> Minhas Redes</h2>
+<!-- HEADER -->
 <div align="center">
+
+# Olá, sou Daniel Nazário
+
+**Estudante de Sistemas de Informação · UEA, Manaus-AM**  
+Desenvolvedor em formação com foco em Full Stack, Black end, Automação.
+
+<br>
+
+<!-- STATUS BADGE -->
+![Status](https://img.shields.io/badge/🎯_Buscando-Estágio_em_TI-brightgreen?style=for-the-badge)
+![Localização](https://img.shields.io/badge/📍_Manaus-AM-blue?style=for-the-badge)
+![Curso](https://img.shields.io/badge/🎓_UEA-Sistemas_de_Informação-orange?style=for-the-badge)
+
+</div>
+
+---
+
+## Contato Rápido
+
+> Estou **aberto a propostas de estágio**. Me chame por qualquer canal abaixo!
+
 <table>
-<tr>
-<td><a href="https://github.com/DanielNazarioPro" target="_blank" rel="noopener noreferrer"><img src="https://github.com/DanielNazarioPro/DanielNazarioPro/blob/main/banner/github4.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://mail.google.com/mail/?view=cm&fs=1&to=dmalzinha0221@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://github.com/DanielNazarioPro/DanielNazarioPro/blob/main/banner/gmail2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://wa.me/5592982472041" target="_blank" rel="noopener noreferrer"><img src="https://github.com/DanielNazarioPro/DanielNazarioPro/blob/main/banner/wpp2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://www.linkedin.com/in/danielnazariopro/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/DanielNazarioPro/DanielNazarioPro/blob/main/banner/linkedin2.png?raw=true" width="50px" height="50px"/></a>
-</td>
+  <tr>
+    <td align="center">
+      <a href="https://wa.me/5592982472041?text=Olá%20Daniel%2C%20vi%20seu%20perfil%20no%20GitHub!">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/danielnazariopro/">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:dmalzinha0221@gmail.com">
+        <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
 </table>
+
+---
+
+##  Tecnologias
+
+
+---
+
+##  Projetos em Destaque
+
+###  Projetos para colocar
+> Sistema de alguma coisa
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
-----
+---
 
-<!-- Seção inicial -->
-
-<div align="justify">
-<i><b>Olá</b>, sou o <code>Daniel Nazário</code>, tenho 28 anos, moro em Manaus e iniciei minha jornada como desenvolvedor aos 24 anos. Atualmente estou <code>cursando</code> Sistema de Informação na <a href="https://www.uea.edu.br/" target="_blank">UEA/EST</a>.</i> :man_teacher:<br />
+<div align="center">
+  <sub> Aberto para estágio, freela e colaborações · Manaus, AM</sub>
 </div>
-
-----
-
-<!-- Seção sobre mim -->
-<h3> Sobre mim</h3>
-<div align="justify"> Olá meu nome é Daniel Nazário, sou estudante de Sistema de Informação no 7° Período. Sempre gostei de descubrir como funcionava os sites e sistemas de arquitetura de software, estou atualmente estudando para se preparar a uma vaga de estágio, se estiver interessado para me contratar me mande uma mensagem no whatsapp ou e-mail.
-</div>
-
-----
