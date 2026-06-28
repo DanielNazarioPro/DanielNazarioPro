@@ -44,6 +44,8 @@ Desenvolvedor em formação com foco em Full Stack, Black end, Automação.
 
 ##  Tecnologias
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
