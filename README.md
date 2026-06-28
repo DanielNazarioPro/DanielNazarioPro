@@ -10,7 +10,6 @@ Desenvolvedor em formação com foco em Full Stack, Black end, Automação.
 
 <!-- STATUS BADGE -->
 ![Status](https://img.shields.io/badge/🎯_Buscando-Estágio_em_TI-brightgreen?style=for-the-badge)
-![Localização](https://img.shields.io/badge/📍_Manaus-AM-blue?style=for-the-badge)
 ![Curso](https://img.shields.io/badge/🎓_UEA-Sistemas_de_Informação-orange?style=for-the-badge)
 
 </div>
