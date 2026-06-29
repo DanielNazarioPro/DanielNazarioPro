@@ -65,13 +65,6 @@ Desenvolvedor em formação com foco em Full Stack, Black end, Automação.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark&hide_border=true"/>
-</div>
-
 ---
 
 <div align="center">
