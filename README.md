@@ -54,7 +54,7 @@ Busco um estágio em QA onde possa aprender com profissionais experientes, contr
 
 Estou em fase de construção de portfólio. Os projetos abaixo representam minha evolução prática nas áreas da vaga — cada um tem código real no repositório.
 
-### [script-validator-csv](https://github.com/DanielNazarioPro)
+### [script-validator-csv](https://github.com/DanielNazarioPro/script-validator-csv.git)
 *Script Python que lê arquivos CSV, valida a integridade dos dados (campos nulos, tipos incorretos, duplicatas) e gera um relatório de resultado em `.txt`.*  
 `Python` `csv` `lógica de validação`
 
@@ -62,7 +62,7 @@ Estou em fase de construção de portfólio. Os projetos abaixo representam minh
 
 ---
 
-### [image-diff-checker](https://github.com/DanielNazarioPro)
+### [image-diff-checker](https://github.com/DanielNazarioPro/image-diff-checker.git)
 *Ferramenta simples de comparação entre duas imagens, que destaca as regiões com diferença visual e retorna um score de similaridade.*  
 `Python` `OpenCV` `automação de análise`
 
@@ -70,7 +70,7 @@ Estou em fase de construção de portfólio. Os projetos abaixo representam minh
 
 ---
 
-### [pytest-study](https://github.com/DanielNazarioPro)
+### [pytest-study](https://github.com/DanielNazarioPro/pytest-study.git)
 *Repositório de estudos com exemplos progressivos de testes automatizados usando pytest: funções simples, fixtures, parametrização e relatórios.*  
 `Python` `pytest` `automação de testes`
 
