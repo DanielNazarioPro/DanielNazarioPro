@@ -1,13 +1,20 @@
 <!-- HEADER -->
 
+<!-- HEADER -->
+<div align="center">
+
 # Daniel Nazário
 
-### Estudante de Sistemas de Informação | Focado em QA & Automação de Teste
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=2000&color=7E3ACE&center=true&vCenter=true&random=false&width=450&lines=%F0%9F%93%9A+Estudante+de+Sist.+de+Informação;%F0%9F%94%8D+Focado+em+QA+%26+Automação;%F0%9F%90%8D+Python+%7C+pytest+%7C+OpenCV;%F0%9F%8E%AF+Buscando+estágio+em+QA" alt="Typing SVG" />
+</p>
+
+<br>
+
 [![Disponível para Estágio](https://img.shields.io/badge/Disponível_para_Estágio-QA_Automação-green?style=for-the-badge)](https://wa.me/5592982472041?text=Olá%20Daniel%2C%20vi%20seu%20perfil%20no%20GitHub!)
 [![UEA - Sistemas de Informação](https://img.shields.io/badge/UEA-Sistemas_de_Informação-orange?style=for-the-badge)](https://uea.edu.br)
 
 </div>
-
 ---
 
 ## Sobre mim
