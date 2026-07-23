@@ -1,6 +1,4 @@
 <!-- HEADER -->
-
-<!-- HEADER -->
 <div align="center">
 
 # Daniel Nazário
