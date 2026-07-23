@@ -2,9 +2,7 @@
 
 # Daniel Nazário
 
-### Estudante de Sistemas de Informação | Focado em <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;Backend+Specialist;Front-end+Enthusiast&center=true&width=500&height=50">
-</p>s
-
+### Estudante de Sistemas de Informação | Focado em QA & Automação de Teste
 [![Disponível para Estágio](https://img.shields.io/badge/Disponível_para_Estágio-QA_Automação-green?style=for-the-badge)](https://wa.me/5592982472041?text=Olá%20Daniel%2C%20vi%20seu%20perfil%20no%20GitHub!)
 [![UEA - Sistemas de Informação](https://img.shields.io/badge/UEA-Sistemas_de_Informação-orange?style=for-the-badge)](https://uea.edu.br)
 
