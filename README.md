@@ -4,13 +4,13 @@
 # Daniel Nazário
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=2000&color=7E3ACE&center=true&vCenter=true&random=false&width=450&lines=%F0%9F%93%9A+Estudante+de+Sist.+de+Informação;%F0%9F%94%8D+Focado+em+QA+%26+Automação;%F0%9F%90%8D+Python+%7C+pytest+%7C+OpenCV;%F0%9F%8E%AF+Buscando+estágio+em+QA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3500&pause=1500&color=7E3ACE&center=true&vCenter=true&random=false&width=550&lines=%F0%9F%8E%93+Bacharelado+em+Sistemas+de+Informação;%F0%9F%92%BC+Assistente+de+TI+%7C+Suporte+Técnico;%F0%9F%94%A7+Infraestrutura+%7C+Desenvolvedor+JR;%F0%9F%93%A6+Docker+%7C+Git+%26+GitHub+%26+GitLab;%F0%9F%92%BE+SQL+%7C+Python;%E2%99%BF+PcD+%7C+Disponível+para+oportunidades" alt="Typing SVG" />
 </p>
 
 <br>
 
-[![Disponível para Estágio](https://img.shields.io/badge/Disponível_para_Estágio-QA_Automação-green?style=for-the-badge)](https://wa.me/5592982472041?text=Olá%20Daniel%2C%20vi%20seu%20perfil%20no%20GitHub!)
-[![UEA - Sistemas de Informação](https://img.shields.io/badge/UEA-Sistemas_de_Informação-orange?style=for-the-badge)](https://uea.edu.br)
+[![Disponível para Estágio](https://img.shields.io/badge/Disponível_para_Estágio-Assistente_TI_%7C_Suporte-green?style=for-the-badge)](https://wa.me/5592982472041?text=Olá%20Daniel%2C%20vi%20seu%20perfil%20no%20GitHub!)
+[![UEA - Sistemas de Informação](https://img.shields.io/badge/UEA-Bacharelado_SI-orange?style=for-the-badge)](https://uea.edu.br)
 
 </div>
 
