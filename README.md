@@ -7,9 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3500&pause=1500&color=7E3ACE&center=true&vCenter=true&random=false&width=550&lines=%F0%9F%8E%93+Bacharelado+em+Sistemas+de+Informação;%F0%9F%92%BC+Assistente+de+TI+%7C+Suporte+Técnico;%F0%9F%94%A7+Infraestrutura+%7C+Desenvolvedor+JR;%F0%9F%93%A6+Docker+%7C+Git+%26+GitHub+%26+GitLab;%F0%9F%92%BE+SQL+%7C+Python;%E2%99%BF+PcD+%7C+Disponível+para+oportunidades" alt="Typing SVG" />
 </p>
 
-<br>
-
-[![UEA - Sistemas de Informação](https://img.shields.io/badge/UEA-Bacharelado_SI-orange?style=for-the-badge)](https://uea.edu.br)
 
 </div>
 
