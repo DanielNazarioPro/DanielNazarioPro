@@ -9,7 +9,6 @@
 
 <br>
 
-[![Disponível para Estágio](https://img.shields.io/badge/Disponível_para_Estágio-Assistente_TI_%7C_Suporte-green?style=for-the-badge)](https://wa.me/5592982472041?text=Olá%20Daniel%2C%20vi%20seu%20perfil%20no%20GitHub!)
 [![UEA - Sistemas de Informação](https://img.shields.io/badge/UEA-Bacharelado_SI-orange?style=for-the-badge)](https://uea.edu.br)
 
 </div>
